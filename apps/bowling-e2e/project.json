@@ -1,0 +1,10 @@
+{
+  "name": "bowling-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/bowling-e2e/src",
+  "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["bowling"],
+  "// targets": "to see all targets run: nx show project bowling-e2e --web",
+  "targets": {}
+}
